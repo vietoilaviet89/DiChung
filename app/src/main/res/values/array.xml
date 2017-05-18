@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Các ngành học của học viện bưu chính viễn thông -->
+<resources>
+    <string-array name="major_array">
+        <item>&lt;Không có&gt;</item>
+        <item>Công nghệ thông tin</item>
+        <item>Kế toán</item>
+        <item>Quản trị kinh doanh</item>
+        <item>An toàn thông tin</item>
+        <item>Marketting</item>
+        <item>Công nghệ đa phương tiện</item>
+        <item>Truyền thông đa phương tiện</item>
+        <item>KT Điện tử truyền thông</item>
+        <item>Công nghệ KT Điện, điện tử</item>
+    </string-array>
+</resources>

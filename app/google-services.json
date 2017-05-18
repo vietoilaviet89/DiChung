@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "422971556281",
+    "firebase_url": "https://dichung-cfd25.firebaseio.com",
+    "project_id": "dichung-cfd25",
+    "storage_bucket": "dichung-cfd25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422971556281:android:74dd66c761c4f343",
+        "android_client_info": {
+          "package_name": "android.dichung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422971556281-64p8tdh0nrhk7s2u1hmn11oco91sl594.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.dichung",
+            "certificate_hash": "813416c836c3e1ec8318b0df5ec43249a16bcdfb"
+          }
+        },
+        {
+          "client_id": "422971556281-n9d2jnen8hun0vvo92ufc9igal4vias9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsx2KMJCKMPo4evpD0Ur7II-ymqBpleUI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422971556281-n9d2jnen8hun0vvo92ufc9igal4vias9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_blank_fragment">Xin chào fragment</string>
+    <string name="tips">Mẹo</string>
+    <string name="about">Giới Thiệu</string>
+    <string name="log_out">Đăng Xuất</string>
+    <string name="account_information">Thông Tin Tài Khoản</string>
+    <string name="language">Ngôn Ngữ</string>
+    <string name="quit">Thoát</string>
+    <string name="back">Quay Lại</string>
+    <string name="welcome">Xin chào</string>
+    <string name="notification">Thông báo</string>
+    <string name="error">Lỗi</string>
+    <string name="internet_problem">Hãy kết nối Internet và khởi động lại ứng dụng</string>
+    <string name="wait">Xin chờ </string>
+    <string name="successfully_signed_in">Đăng nhập thành công. Chào mừng!</string>
+    <string name="map">BẢN ĐỒ</string>
+    <string name="people">MỌI NGƯỜI</string>
+    <string name="setting">CÀI ĐẶT</string>
+    <string name="loading">Đang tải ...</string>
+    <string name="loading2_2">Đang tải ...(2/2)</string>
+    <string name="loading1_2">Đang tải ...(2/2)</string>
+    <string name="km">km</string>
+    <string name="mins">phút</string>
+    <string name="touch_refresh">Chạm vào nút LÀM MỚI để tải lại</string>
+    <string name="gps_problem">Bật GPS và khởi động lại ứng dụng</string>
+    <string name="birthday">Ngày sinh</string>
+    <string name="gender">Giới tính</string>
+    <string name="major">Ngành</string>
+    <string name="name">Tên</string>
+    <string name="phone">Số đt</string>
+    <string name="status">Trạng thái</string>
+    <string name="me">Tôi</string>
+    <string name="min">0 phút</string>
+    <string name="phone_problem">Số điện thoại bị bỏ trống</string>
+    <string name="update_success">Cập nhật thông tin thành công</string>
+    <string name="select_picture">Chọn ảnh đại diện</string>
+    <string name="next">Tiếp</string>
+    <string name="birthday_hint">Ngày sinh</string>
+    <string name="major_hint">Ngành</string>
+    <string name="phone_hint">Số điện thoại</string>
+    <string name="status_hint">Mô tả / Trạng thái</string>
+    <string name="female">Nữ</string>
+    <string name="male">Nam</string>
+    <string name="english">Tiếng Anh</string>
+    <string name="vietnamese">Tiếng Việt</string>
+    <string name="change_language">Thay đổi</string>
+    <string name="change_problem">Chưa chọn ngôn ngữ nào!</string>
+    <string name="laos">Tiếng Lào</string>
+    <string name="not_supported">Ngôn ngữ này hiện chưa được hỗ trợ</string>
+    <string name="bye">"Gặp lại sau, "</string>
+    <string name="type_of_view">Kiểu xem</string>
+    <string name="refresh">Chạm để làm mới</string>
+    <string name="shortest_route">Hiển thị lộ trình đi chung ngắn nhất cho hai người</string>
+    <string name="call">Gọi cho người này</string>
+    <string name="send_sms">Nhắn tin cho người này</string>
+    <string name="direction_recommend">Người này hiện đang ở xa bạn. Do vậy, lộ trình đi chung cho hai người có vẻ không hiệu quả. Chúng tôi khuyên bạn không nên đi!</string>
+    <string name="location_update">Vị trí của bạn vừa được cập nhật</string>
+    <string name="no_phone">Không số điện thoại nào được chọn</string>
+    <string name="km_">0 km</string>
+
+
+</resources>

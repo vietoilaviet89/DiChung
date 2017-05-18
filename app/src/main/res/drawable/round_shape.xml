@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:layout_height="match_parent" android:layout_width="match_parent">
+    <solid android:color="#ffffffff"/>
+
+    <stroke
+        android:color="@color/cardview_shadow_start_color"
+        android:width="0.3dp"
+        />
+    <padding android:left="1dp"
+        android:top="1dp"
+        android:right="1dp"
+        android:bottom="1dp"
+        />
+
+    <corners android:topLeftRadius="10dp" android:topRightRadius="10dp"/>
+</shape>
